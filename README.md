@@ -15,7 +15,17 @@ Gives out advise about relationships and communication
 
 ## Author
 
-  Devin Weaver ([@sukima][])
-  Orignial work by Franklin (tacit) from http://tacit.livejournal.com/388290.html
+Authored by Devin Weaver ([@sukima][]).
+
+The strings in this script were created and published by [Franklin
+(tacit)][tacit] in his blog post. It's popularity gained enough significance to
+make to my twitter feed. I use [Campfire][] with my partners to help bridge the
+gap we have while we are off at work. Included is our own [Hubot][] who keeps
+the chat room fun and unique. I felt such a script would be very useful as
+frequent reminders we all could use in our pursuit of developing good relations
+with the people we love.
 
 [@sukima]: https://github.com/sukima/
+[tacit]: http://tacit.livejournal.com/388290.html
+[Campfire]: https://campfirenow.com/
+[Hubot]: http://hubot.github.com/
