@@ -1,6 +1,6 @@
 # Hubot Principles
 
-[![Build Status](https://travis-ci.org/sukima/hubot-principles.png)](https://travis-ci.org/sukima/hubot-principles)
+[![Build Status](https://travis-ci.org/sukima/hubot-principles.png?branch=master)](https://travis-ci.org/sukima/hubot-principles)
 
 Gives out advise about relationships and communication
 
