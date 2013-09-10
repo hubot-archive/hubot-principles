@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/sukima/hubot-principles.git"
+    "url": "git://github.com/hubot-scripts/hubot-principles.git"
   },
 
   "bugs": {
-    "url": "https://github.com/sukima/hubot-principles/issues"
+    "url": "https://github.com/hubot-scripts/hubot-principles/issues"
   },
 
   "dependencies": {
