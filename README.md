@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/hubot-scripts/hubot-principles.png?branch=master)](https://travis-ci.org/hubot-scripts/hubot-principles)
 
-Gives out advise about relationships and communication
+Gives out advice about relationships and communication
 
 > "A relationship with a partner who chooses, every day, to be with you is more
 > satisfying than a relationship with a partner who is with you because he or
