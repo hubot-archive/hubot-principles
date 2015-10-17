@@ -19,7 +19,8 @@ describe "principles", ->
   describe "Single reply", ->
 
     it "registers a respond listener", ->
-      expect(@robot.respond).to.have.been.calledWith(/principle.*me/)
+      expect(@robot.respond).to.have.been
+        .calledWith(sinon.match.regexp, sinon.match.func)
 
     it "should send only one line of text", ->
       cb = @robot.respond.firstCall.args[1]
@@ -30,7 +31,8 @@ describe "principles", ->
   describe "Bomb", ->
 
     it "registers a respond listener", ->
-      expect(@robot.respond).to.have.been.calledWith(/principle.*bomb/)
+      expect(@robot.respond).to.have.been
+        .calledWith(sinon.match.regexp, sinon.match.func)
 
     it "should send several lines of text", ->
       cb = @robot.respond.secondCall.args[1]
